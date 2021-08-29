@@ -70,4 +70,8 @@
 #divFour {
     margin-bottom: 200px;
 }
-
+@media screen and (max-width: 750px) {
+    #holder {
+        margin: 22vh auto;
+    }
+}
