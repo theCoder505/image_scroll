@@ -73,6 +73,9 @@
 
 @media screen and (max-width: 750px) {
     #mainScrollTxts {
-        max-height: 355px;
+        max-height: 560px;
+    }
+    #divFour {
+        margin-bottom: 560px;
     }
 }
